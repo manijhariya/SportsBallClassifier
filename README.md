@@ -7,9 +7,10 @@
 * Build a client facing API using flask
 <br>
 <p align="center">
-  <img src="static/temp.jpeg" width="400" alt="accessibility text">
+  <img src="static/temp.jpeg" width="450" alt="accessibility text">
 </p>
 <br>
+
 ## Code and Resources Used
 
 Python Version: 3.8
