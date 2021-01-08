@@ -5,10 +5,9 @@
 * Approached for naive based Logistic Regression using LogisticRegression model (scikit-learn)
 * Approached for neural network based solution using CNN (Convolutional neural network) in keras
 * Build a client facing API using flask
-##![alt text](https://github.com/manijhariya/SportsBallClassifier/blob/main/static/temp.jpeg?raw=true)
 
 <p align="center">
-  <img src="static/temp.jpeg" width="350" alt="accessibility text">
+  <img src="static/temp.jpeg" width="400" alt="accessibility text">
 </p>
 
 share improve t
