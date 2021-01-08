@@ -5,14 +5,11 @@
 * Approached for naive based Logistic Regression using LogisticRegression model (scikit-learn)
 * Approached for neural network based solution using CNN (Convolutional neural network) in keras
 * Build a client facing API using flask
-
+<br>
 <p align="center">
   <img src="static/temp.jpeg" width="400" alt="accessibility text">
 </p>
-
-share improve t
-
-
+<br>
 ## Code and Resources Used
 
 Python Version: 3.8
