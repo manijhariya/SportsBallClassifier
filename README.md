@@ -24,10 +24,10 @@ Google, Yahoo, Bing, Ecosia search engines with each image we got..
 
 ## Data Cleaning and EDA
 After scraping the data, Scripted in python to clean the data so that it can be used by model. Made following changes to clean data.
-    * Converted every image into 3 channels (RGB) form.
-    * Resized every image into 100 * 100 (W * H)
-    * Flatten every image data after taking it into array
-    * Saved image array data in csv file for easy to share
+  - Converted every image into 3 channels (RGB) form.
+  - Resized every image into 100 * 100 (W * H)
+  - Flatten every image data after taking it into array
+  - Saved image array data in csv file for easy to share
 
 ## Model Building
 Data was ready to fit into the model. Before that i transformed the categorical variables into dummy variables AKA one hot encoded variables
