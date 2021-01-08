@@ -13,11 +13,11 @@
 
 ## Code and Resources Used
 
-Python Version: 3.8
-Packages: pandas, numpy, sklearn, matplotlib, flask, beautifulsoup, tensorflow
+- Python Version: 3.8
+- Packages: pandas, numpy, sklearn, matplotlib, flask, beautifulsoup, tensorflow
 
 ## Web Scraping
-Tweaked and modified the web scraper github repo ("https://github.com/manijhariya/WebBot") to scrape 1000 images from
+Tweaked and modified the web scraper [github repo] ("https://github.com/manijhariya/WebBot") to scrape 1000 images from
 Google, Yahoo, Bing, Ecosia search engines with each image we got..
 
 36 words (from dictionary to look in search engines) * 4 search engines = 1036 Images
